@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:05:32 AM On 18-Aug-20
+
+Output: STEP
+Type  : ExportSTEP
+From  : PCB Document [LTE_IoT_5_click_v100.PcbDoc]
+   Generated File[LTE_IoT_5_click_v100.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:05:40 AM On 18-Aug-20
